@@ -4,7 +4,7 @@ SEOTitle: 刘维嘉的博客 | BY Blog
 header-img: img/post-bg-2015.jpg
 email: lwjia1101@126.com
 #description: "Every failure is leading towards success."
-keyword: "Golang, Vue.js, Vega, Linux"
+keyword: "Golang, Vue.js, Vega, Linux, MySQL, Redis, Kafka, K8s"
 #url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/vega1024/vega1024.github.io.git" # you code repository
