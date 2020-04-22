@@ -1,7 +1,7 @@
 # Site settings
 title: Vega's Blog
 SEOTitle: 刘维嘉的博客 | BY Blog
-# header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.jpg
 email: lwjia1101@126.com
 #description: "Every failure is leading towards success."
 keyword: "Golang, Vue.js, Vega, Linux"
