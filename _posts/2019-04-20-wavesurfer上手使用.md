@@ -1,3 +1,15 @@
+---
+layout:     post                    # 使用的布局（不需要改）
+title:      wavesurfer上手使用               # 标题 
+subtitle:   本文将介绍wavesurfer的使用方式  #副标题
+date:       2019-04-20              # 时间
+author:     Vega                      # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - Vue.js
+---
+
 # wavesurfer上手使用（Vue）
 
 ### 前言
