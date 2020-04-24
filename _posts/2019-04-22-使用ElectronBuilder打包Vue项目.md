@@ -1,8 +1,8 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      动态规划入门               # 标题 
-subtitle:   本文将介绍动态规划基本实现以及LeetCode几道简单的题目 #副标题
-date:       2020-04-23              # 时间
+title:      使用ElectronBuilder打包Vue项目               # 标题 
+subtitle:   本文将介绍如何使用使用ElectronBuilder进行Vue项目的打包 #副标题
+date:       2019-04-23              # 时间
 author:     Vega                      # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
